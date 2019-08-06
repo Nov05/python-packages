@@ -1,0 +1,7 @@
+README.md
+setup.py
+lambdata_nov05/__init__.py
+lambdata_nov05.egg-info/PKG-INFO
+lambdata_nov05.egg-info/SOURCES.txt
+lambdata_nov05.egg-info/dependency_links.txt
+lambdata_nov05.egg-info/top_level.txt
