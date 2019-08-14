@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-nov05",
-    version="0.0.5",
+    version="0.0.6",
     author="nov05",
     author_email="arwen_liu@hotmail.com",
     description="DS5 Unit3 example package",

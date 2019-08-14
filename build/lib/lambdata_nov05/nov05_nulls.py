@@ -7,5 +7,3 @@ def nov05_colnulls(df):
         
     print('Data frame has', sum(colnulls), 'null values.')
     return colnulls
-
-

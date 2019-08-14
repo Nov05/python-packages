@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: lambdata-nov05
-Version: 0.0.5
+Version: 0.0.6
 Summary: DS5 Unit3 example package
 Home-page: https://github.com/Nov05/python-packages
 Author: nov05
@@ -9,7 +9,15 @@ License: UNKNOWN
 Description: # python-packages
         This is a repository for Python packages.
         
-        2019-08-05 repo created.
+        2019-08-05   
+        repo created  
+        
+        2019-08-05   
+        package distribution tutorials
+        (Windows 10, Anaconda3 Powershell Prompt logs)  
+        https://github.com/Nov05/Lambda-School-Data-Science/blob/master/miscellaneous/2019-08-05%20distribute%20python%20packages.md
+        
+        
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
